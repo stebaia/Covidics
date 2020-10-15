@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green_soft">#89cdc0</color>
+    <color name="navigation_bar">#00a5d9</color>
+    <color name="sponsor_bg">#304ffe</color>
+    <color name="icons">#8dc63f</color>
+    <color name="blue">#304ffe</color>
+    <color name="dark_blue">#1e3ae5</color>
+    <color name="blue_line">#a4abff</color>
+    <color name="gray_trasparent">#1a393c4b</color>
+    <color name="menu_header">#045170</color>
+    <color name="menu_background">#056c96</color>
+    <color name="facebook_button">#195d9e</color>
+    <color name="google_plus_button">#d93d3e</color>
+    <color name="red">#fc3d3a</color>
+    <color name="background_view">#efeff0</color>
+    <color name="list_arrow">#cccccc</color>
+    <color name="secondary_text">#929292</color>
+    <color name="dark_gray">#393c4b</color>
+    <color name="grey_overlay">#99393c4b</color>
+    <color name="dark_gray_trasparent">#CC393c4b</color>
+    <color name="text">#222222</color>
+    <color name="issue_open">#fc3d3a</color>
+    <color name="issue_doing">#ffba00</color>
+    <color name="issue_archived">#00C0EF</color>
+    <color name="tips">#eeca00</color>
+    <color name="text_color">#333</color>
+    <color name="dark_blue_system">#0009ca</color>
+    <color name="color_spid">#0366CC</color>
+    <color name="myPrimaryColor">#2196F3</color>
+    <color name="myPrimaryDarkColor">#1976D2</color>
+    <color name="secondaryColor">#165592</color>
+    <color name="myAccentColor">#FF4081</color>
+    <color name="myDrawerBackground">#FFF</color>
+    <color name="myWindowBackground">#FFF</color>
+    <color name="greyCold">#ecedf4</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myNavigationColor">#000</color>
+    <color name="checkBox">#009688</color>
+    <color name="background_progress">#0c000000</color>
+    <drawable name="pressed_gray">#0c000000</drawable>
+    <drawable name="selected_gray">#2c000000</drawable>
+    <color name="grey_text">#343434</color>
+    <color name="grey_bkg">#E5E5E5</color>
+    <color name="blue_header_mmc">#0359A3</color>
+    <color name="cyan">#E2F1FE</color>
+    <color name="white_alternative">#FDFDFD</color>
+
+    <integer-array name="municipium_colors">
+        <item>@color/blue_300</item>
+        <item>@color/blue_800</item>
+    </integer-array>
+
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_800">#1565C0</color>
+    <color name="blue_900">#0D47A1</color>
+    <color name="blue_A100">#82B1FF</color>
+    <color name="blue_A200">#448AFF</color>
+    <color name="blue_A400">#2979FF</color>
+    <color name="blue_A700">#2962FF</color>
+
+
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+
+
+    <color name="blue_grey_50">#ECEFF1</color>
+    <color name="blue_grey_100">#CFD8DC</color>
+    <color name="blue_grey_200">#B0BEC5</color>
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="blue_grey_400">#78909C</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_87">#de000000</color> <!-- Black 87% -->
+    <color name="black_54">#8a000000</color> <!-- Black 54% -->
+
+    <color name="white_opacity">#88FFFFFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="selection">#efeff0</color>
+</resources>
